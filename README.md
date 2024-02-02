@@ -1,1 +1,1 @@
-# Nutritionist-Generative-AI-With-Gemini
+This project aims help people about being healthy and balanced diet
